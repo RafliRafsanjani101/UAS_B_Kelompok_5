@@ -11,10 +11,10 @@ Proyek ini merupakan tugas **UAS Mata Kuliah Pemrograman Berorientasi Objek (PBO
 ✅ Tampilkan semua produk  
 ✅ Hitung estimasi profit berdasarkan jumlah produksi  
 ✅ Simulasi proses produksi:  
-    • Pengadonan  
-    • Pengembangan (jika ada)  
-    • Pemanggangan  
-    • Topping  
+- Pengadonan  
+- Pengembangan (jika ada)  
+- Pemanggangan  
+- Topping  
 
 ---
 
