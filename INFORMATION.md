@@ -20,9 +20,9 @@ Proyek ini merupakan tugas **UAS Mata Kuliah Pemrograman Berorientasi Objek (PBO
 
 ## Struktur Program
 
-`produk.py`  : Berisi abstract class `ProdukRoti` dan interface `ProsesProduksi`
-`roti.py`    : Berisi turunan class roti: `RotiManis`, `Croissant`, `ButterCookies`, dan `Muffin`
-`main.py`    : Berisi program utama dengan menu interaktif CLI
+`produk.py`  : Berisi abstract class `ProdukRoti` dan interface `ProsesProduksi`  
+`roti.py`    : Berisi turunan class roti: `RotiManis`, `Croissant`, `ButterCookies`, dan `Muffin`  
+`main.py`    : Berisi program utama dengan menu interaktif CLI  
 
 ---
 
