@@ -46,3 +46,9 @@ Proyek ini merupakan tugas **UAS Mata Kuliah Pemrograman Berorientasi Objek (PBO
 ## Diagram Class
 
 Lihat file `uml_diagram.png` di dalam repositori ini untuk melihat visualisasi struktur class secara lengkap.
+
+---
+
+## Flowchart
+
+Lihat file `flowchart.png` di dalam repositori ini untuk melihat flowchart dari program ini.
