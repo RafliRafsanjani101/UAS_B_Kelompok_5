@@ -60,12 +60,13 @@ def simulasi_produksi():
 def menu():
     while True:
         print("""
-===== MENU =====
+======== MENU ========
 1. Tambah Produk
 2. Tampilkan Produk
 3. Hitung Profit
 4. Simulasi Produksi
 5. Keluar
+======================
 """)
         pilih = input("Pilih menu: ")
         if pilih == '1':
