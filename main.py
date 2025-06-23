@@ -78,7 +78,7 @@ def menu():
         elif pilih == '4':
             simulasi_produksi()
         elif pilih == '5':
-            print("Keluar dari program.")
+            print("Terima Kasih Telah Menggunakan Program Hanari Bakery")
             break
         else:
             print("Pilihan tidak valid.")
