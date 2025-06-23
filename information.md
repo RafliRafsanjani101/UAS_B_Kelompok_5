@@ -51,4 +51,4 @@ Lihat file `uml_diagram.png` di dalam repositori ini untuk melihat visualisasi s
 
 ## Flowchart
 
-Lihat file `Flowchart.png` di dalam repositori ini untuk melihat flowchart dari program ini.
+Lihat file `flowchart.png` di dalam repositori ini untuk melihat flowchart dari program ini.
